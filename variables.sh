@@ -1,0 +1,6 @@
+export PSQL_VERSION="11"
+export VERSION="14.0"
+export TRAVIS_PYTHON_VERSION="3.6"
+export ODOO_REPO="jarsa/odoo"
+export ODOO_BRANCH="14.0"
+export BASE_IMAGE="vauxoo/odoo-140-image"
